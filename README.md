@@ -44,15 +44,6 @@ I'm a passionate developer with a knack for crafting seamless, user-focused appl
 
 ---
 
-## 🏆 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miyuruh&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miyuruh&theme=radical" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miyuruh&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
----
-
 ## 🚀 Featured Projects
 Here’s a glimpse of what I’ve been building:
 
@@ -84,10 +75,6 @@ Enjoying my projects? Fuel my creativity with a coffee! ☕
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=miyuruh&icon=0&color=0" alt="Visitor Count"/>
-</p>
 
 <p align="center">
   <em>Thanks for stopping by! Let’s build something amazing together. ✨</em>
